@@ -1,3 +1,8 @@
+# DEPRECATED: Please see freesewing/freesewing instead
+
+FreeSewing v2 and up is maintained in the [freesewing](https://github.com/freesewing/freesewing) repository.
+We no longer use this code.
+
 <a href="https://docs/freesewing.org/"><img src="https://docs.freesewing.org/img/logo-black.svg" align="right" width=200 style="max-width: 20%;" /></a>
 # bsd
 These classes contain code that was ported from a JavaScript project
